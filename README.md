@@ -1,6 +1,3 @@
-![PC Preview](./img/preview-pc.png)
-![SP Preview](./img/preview-sp.png)
-
 # CodeJump 模写コーディング（初級）
 
 ## 概要
